@@ -25,7 +25,7 @@ O script oferece as seguintes funcionalidades para configurar o Zabbix Server de
    Clone o repositório ou faça o download do script diretamente:
 
    ```bash
-   git clone https://github.com/Senedev/zabbix-server/zabbix-server.git
+   git clone https://github.com/Senedev/zabbix-server.git
    ```
 
 2. **Dar permissão de execução ao script:**
